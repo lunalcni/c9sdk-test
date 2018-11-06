@@ -192,7 +192,12 @@
 #wget `npm view mime@1.4.1                    dist.tarball`
 #wget `npm view oauth-sign                    dist.tarball`
 
-wget `npm view prr                    dist.tarball`
+#wget `npm view prr                    dist.tarball`
+
+wget `npm view os-tmpdir@1.0.2                    dist.tarball`
+wget `npm view vows@0.7.0                    dist.tarball`
+
+
 
 
 
